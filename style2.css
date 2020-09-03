@@ -1,0 +1,25 @@
+.container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+    margin-left: 100px;
+  }
+.container2 {
+    width: 200px;
+    height: 100px;
+    background-color: turquoise;
+    margin-bottom: 10px;
+    left: 500px;
+    top: 100px;
+    position: relative;
+}
+
+.container3 {
+    width: 200px;
+    height: 100px;
+    background-color:yellowgreen;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    position: relative;
+}
